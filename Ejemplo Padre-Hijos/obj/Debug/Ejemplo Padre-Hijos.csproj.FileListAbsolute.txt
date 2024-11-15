@@ -1,0 +1,14 @@
+D:\TD 2023\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\bin\Debug\Ejemplo Padre-Hijos.exe.config
+D:\TD 2023\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\bin\Debug\Ejemplo Padre-Hijos.exe
+D:\TD 2023\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\bin\Debug\Ejemplo Padre-Hijos.pdb
+D:\TD 2023\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\obj\Debug\Ejemplo Padre-Hijos.csproj.AssemblyReference.cache
+D:\TD 2023\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\obj\Debug\Ejemplo Padre-Hijos.csproj.CoreCompileInputs.cache
+D:\TD 2023\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\obj\Debug\Ejemplo Padre-Hijos.exe
+D:\TD 2023\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\obj\Debug\Ejemplo Padre-Hijos.pdb
+C:\Users\nicok\OneDrive\Desktop\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\bin\Debug\Ejemplo Padre-Hijos.exe.config
+C:\Users\nicok\OneDrive\Desktop\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\bin\Debug\Ejemplo Padre-Hijos.exe
+C:\Users\nicok\OneDrive\Desktop\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\bin\Debug\Ejemplo Padre-Hijos.pdb
+C:\Users\nicok\OneDrive\Desktop\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\obj\Debug\Ejemplo Padre-Hijos.csproj.AssemblyReference.cache
+C:\Users\nicok\OneDrive\Desktop\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\obj\Debug\Ejemplo Padre-Hijos.csproj.CoreCompileInputs.cache
+C:\Users\nicok\OneDrive\Desktop\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\obj\Debug\Ejemplo Padre-Hijos.exe
+C:\Users\nicok\OneDrive\Desktop\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\Ejemplo Padre-Hijos\obj\Debug\Ejemplo Padre-Hijos.pdb
